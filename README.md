@@ -41,8 +41,8 @@ BusProject/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/bus-reservation-system.git
-cd bus-reservation-system
+git clone https://github.com/KrishnaVKA/BusReservationSystem.git
+cd BusReservationSystem
 ```
 
 ---
